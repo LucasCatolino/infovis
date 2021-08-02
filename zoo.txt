@@ -1,1 +1,18 @@
-
+Stacked Graphs
+small multiples
+Horizon graphs
+stem-and-leaf plot
+Q-Q plots
+Parallel coordinates
+Graduated Symbol Maps
+GDP
+Dorling cartogram
+phylogenetic trees
+k-means clustering
+Reingold-Tilford algorithm
+dendrogram
+Adjacency diagrams
+Enclosure diagrams
+Squarified treemaps
+Voronoi and jigsaw treemaps
+cliques
